@@ -1,0 +1,11 @@
+C:\Users\tilly\Documents\Swinburne\Anhs class\Fizzbuzz\obj\Debug\netcoreapp3.1\Fizzbuzz.csprojAssemblyReference.cache
+C:\Users\tilly\Documents\Swinburne\Anhs class\Fizzbuzz\obj\Debug\netcoreapp3.1\Fizzbuzz.AssemblyInfoInputs.cache
+C:\Users\tilly\Documents\Swinburne\Anhs class\Fizzbuzz\obj\Debug\netcoreapp3.1\Fizzbuzz.AssemblyInfo.cs
+C:\Users\tilly\Documents\Swinburne\Anhs class\Fizzbuzz\bin\Debug\netcoreapp3.1\Fizzbuzz.exe
+C:\Users\tilly\Documents\Swinburne\Anhs class\Fizzbuzz\bin\Debug\netcoreapp3.1\Fizzbuzz.deps.json
+C:\Users\tilly\Documents\Swinburne\Anhs class\Fizzbuzz\bin\Debug\netcoreapp3.1\Fizzbuzz.runtimeconfig.json
+C:\Users\tilly\Documents\Swinburne\Anhs class\Fizzbuzz\bin\Debug\netcoreapp3.1\Fizzbuzz.runtimeconfig.dev.json
+C:\Users\tilly\Documents\Swinburne\Anhs class\Fizzbuzz\bin\Debug\netcoreapp3.1\Fizzbuzz.dll
+C:\Users\tilly\Documents\Swinburne\Anhs class\Fizzbuzz\bin\Debug\netcoreapp3.1\Fizzbuzz.pdb
+C:\Users\tilly\Documents\Swinburne\Anhs class\Fizzbuzz\obj\Debug\netcoreapp3.1\Fizzbuzz.dll
+C:\Users\tilly\Documents\Swinburne\Anhs class\Fizzbuzz\obj\Debug\netcoreapp3.1\Fizzbuzz.pdb
